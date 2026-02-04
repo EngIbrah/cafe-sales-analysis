@@ -466,7 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you found this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/cafe-sales-analysis&type=Date)](https://star-history.com/#yourusername/cafe-sales-analysis&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EngIbrah/cafe-sales-analysis&type=Date)](https://star-history.com/#yourusername/cafe-sales-analysis&Date)
 
 ---
 
