@@ -426,8 +426,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/EngIbrah)
-- LinkedIn: [Your Name](https://linkedin.com/in/ibrahim-ndagiwe)
+- GitHub: [@EngIbrah](https://github.com/EngIbrah)
+- LinkedIn: [Ibrahim Ndagiwe](https://linkedin.com/in/ibrahim-ndagiwe)
 - Email: ibrahndagiwe99@gmail.com
 
 ---
